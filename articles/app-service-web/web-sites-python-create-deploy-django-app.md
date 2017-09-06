@@ -280,7 +280,7 @@ Browse to the Azure URL to view your changes.
 
 ## Web app development - Mac/Linux - command line
 ### Clone the repository
-First, clone the repository using the URL provided on the Azure Portal, and add the Azure repository as a remote. For more information, see [Local Git Deployment to Azure App Service](app-service-deploy-local-git.md).
+First, clone the repository using the URL provided on the Azure Portal, and add the Azure repository as a remote. The URL is located in the overview section of your Django project. For more information, see [Local Git Deployment to Azure App Service](app-service-deploy-local-git.md).
 
     git clone <repo-url>
     cd <repo-folder>
